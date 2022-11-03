@@ -1,0 +1,13 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 30px;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 900px) {
+  /* For a screen < 720px, this CSS will be read */
+  .cards {
+    gap: 1rem;
+  }
+}

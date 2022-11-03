@@ -1,0 +1,17 @@
+footer {
+  background-color: #2c2b2b;
+  padding-block: 3rem;
+}
+
+footer p {
+  color: #6B6C6C;
+}
+
+footer span {
+  color: #BF0F12;
+}
+
+footer .list-inline a {
+  color: #1EDD88;
+  font-size: 1.8rem;
+}

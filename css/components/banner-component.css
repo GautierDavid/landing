@@ -1,0 +1,19 @@
+.banner {
+  background-position: center;
+  background-size: cover;
+  padding-block: 208px;
+  color: white;
+}
+
+.banner .container a {
+  padding: 1rem 2.3rem;
+  border-radius: 30px;
+  color: white;
+  background-color: #1EDD88;
+}
+
+.banner .container p{
+  margin-bottom: 2.3rem;
+  opacity: .7;
+  font-size: 20px;
+}
